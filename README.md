@@ -2,7 +2,7 @@
 # Gates in python 
 
 
-class SRFlipFlop:
+  class SRFlipFlop:
     def _init_(self):
         self.Q = 0
         self.Qbar = 1
