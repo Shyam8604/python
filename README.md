@@ -1,5 +1,5 @@
 # python
-Gates in python 
+# Gates in python 
 
 
 class SRFlipFlop:
